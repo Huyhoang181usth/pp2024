@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name:Le Huy Hoang  ICT1 
+* Student Name :Le Huy Hoang ICT1 
 * Student ID: 23BI14172
